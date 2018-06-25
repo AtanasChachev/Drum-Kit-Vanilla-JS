@@ -1,0 +1,10 @@
+.drum--kit_section {
+	min-height: 100vh;
+	width: 100%;
+	background-image: url(#{$assetPath}section_background.jpg);
+	background-size: cover;
+}
+
+.audio--elements_section {
+	display: none;
+}
