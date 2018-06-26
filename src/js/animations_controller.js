@@ -20,7 +20,7 @@ export let animationController = {
 
 		.add({
 			targets: '.line',
-			width: '90px',
+			width: '60px',
 			duration: 1000,
 			offset: '-=600'
 		})
